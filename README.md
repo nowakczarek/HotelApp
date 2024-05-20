@@ -11,4 +11,4 @@ Desktop App
   -  Allowing Hotel Management to search for and check-in specific guest
 
 SQL data storage
-  -  Ability to change database between SQL Server and SQLite by simply changing ConnectionString and DatabaseChoice in json file
+  -  Ability to change database between SQL Server and SQLite by simply changing DatabaseChoice in json file
